@@ -63,7 +63,7 @@ def create_rfm_df(df):
 
 ### MULAINYA DISINI
 
-data_df = pd.read_csv("main_data.csv")
+data_df = pd.read_csv("dashboard/main_data.csv")
 
 datetime_columns = ["dteday"]
 data_df.sort_values(by="dteday", inplace=True)
