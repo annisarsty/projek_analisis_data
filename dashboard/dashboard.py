@@ -206,4 +206,3 @@ fig = px.pie(user_pie, values='Count', names='Category',
              hole=0.3) 
 
 st.plotly_chart(fig)
-st.caption('Casual user: ')
