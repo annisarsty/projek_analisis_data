@@ -1,0 +1,13 @@
+Library yang digunakan:
+
+pandas (pd): Library untuk analisis dan manipulasi data. Pandas menyediakan struktur data seperti DataFrame untuk menyimpan dan mengelola data dalam bentuk tabel.
+
+matplotlib.pyplot (plt): Bagian dari Matplotlib, library yang digunakan untuk membuat visualisasi data seperti grafik dan plot. pyplot menyediakan fungsi-fungsi untuk membuat grafik dengan mudah.
+
+seaborn (sns): Library visualisasi data yang berbasis pada Matplotlib. Seaborn memberikan antarmuka yang lebih sederhana untuk membuat grafik statistik yang kompleks dengan lebih estetis.
+
+streamlit (st): Library untuk membuat aplikasi web interaktif dengan mudah, terutama untuk aplikasi berbasis data. Biasanya digunakan untuk menampilkan analisis data atau model machine learning dengan antarmuka pengguna yang sederhana.
+
+babel.numbers (format_currency): Modul dari Babel untuk melakukan format angka, termasuk format mata uang. format_currency digunakan untuk menampilkan angka dalam format mata uang tertentu.
+
+plotly.express (px): Bagian dari Plotly, library untuk membuat visualisasi data yang interaktif. plotly.express menyediakan cara mudah untuk membuat grafik dengan dukungan interaktif secara default.
